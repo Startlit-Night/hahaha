@@ -1,0 +1,24 @@
+.first{
+    display: grid;
+    grid-template-columns: 100px 100px 200px;
+    margin-top: 20px;
+}
+.second{
+    background-color: lightblue;
+}
+.third{
+    background-color: yellow;
+}
+.fourth{
+    background-color: lightcoral;
+}
+.first-div{
+    display: grid;
+    grid-template-columns: 100px 100px 1fr;
+    margin-top: 20px;
+}
+.second-div{
+    display: grid;
+    grid-template-columns: 100px 1fr 2fr;
+    margin-top: 20px;
+}

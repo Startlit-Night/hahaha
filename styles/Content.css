@@ -1,0 +1,8 @@
+.Content {
+    position: fixed;
+    bottom: 0;
+    background: linear-gradient(rgb(121, 63, 25),rgba(229,167,125,1));
+    color: #f1f1f1;
+    width: 100%;
+    padding: 50px;
+  }

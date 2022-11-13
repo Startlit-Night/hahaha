@@ -1,0 +1,35 @@
+.Navigation{
+    position: relative;
+    padding: 2.5% 8%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: middle;
+    column-gap: 5px;
+}
+
+nav ul li{
+	list-style: none;
+	transition: 0.2s;
+    text-align: center;
+
+}
+
+nav ul li a {
+	text-decoration: none;
+    font-family: 'League Spartan', sans-serif;
+	color: #c98860;
+	font-size: 27px;
+	transition: 0.2s;
+}
+
+.White-1{
+    color: #f3d3e3;
+}
+
+.Image-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
